@@ -21,6 +21,7 @@ I've spent the last 2 years working as a Full Stack Developer for a funeral home
 
 
 ### Template 
+Want to add your name? Email your information to sierra at women who code dot com or use this template to open a PR! Please add your name alphabetically by last name. 
 ```
 **Your Name** (your pronouns)
 [![alt text][1.1]](http://www.linkedin.com/in/LINKEDIN_USERNAME) [![alt text][2.1]](http://github.com/GITHUB_USERNAME) [![alt text][3.1]](http://www.YOU-PERSONAL=WEBSITE.com) [![alt text][4.1]](http://www.twitter.com/TWITTER_HANDLE)
