@@ -7,9 +7,9 @@
 
 # Open to Opportunities
 
-### Directory of Talent in the Cincinnati area open to new opportunities 
-
 Interested in learning how to make your hiring practices more inclusive? Check out [this list](https://github.com/sierraobryan/diversity-inclusion-resources#general-hiring-resources) of resources!
+
+### Directory of Talent in the Cincinnati area open to new opportunities 
 
 **Jen Cihla** (she/her)  
 [![Linkedin Profile][1.1]](https://linkedin.com/in/jennifercihla) [![Github account][2.1]](https://github.com/ZealandMist)
