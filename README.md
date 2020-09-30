@@ -2,10 +2,10 @@
 
 ### Directory of Talent in the Cincinnati area open to new opportunities 
 
-[1.1]: https://i.imgur.com/kMlMcZg.jpg (linkedin icon with padding)
-[2.1]: https://i.imgur.com/cspCR1E.jpg (github icon with padding)
-[3.1]: https://i.imgur.com/JZHRGN2.jpg (website icon with padding)
-[4.1]: https://i.imgur.com/WOgHkHJ.jpg (twitter icon with padding)
+[1.1]: https://i.imgur.com/YJZaxoB.jpg (linkedin icon with padding)
+[2.1]: https://i.imgur.com/dFDYThB.jpg (github icon with padding)
+[3.1]: https://i.imgur.com/Awg0NVF.jpg (website icon with padding)
+[4.1]: https://i.imgur.com/Ib12ayL.jpg (twitter icon with padding)
 
 **Jen Cihla** (she/her)  
 [![alt text][1.1]](www.linkedin.com/in/jennifercihla) [![alt text][2.1]](https://github.com/ZealandMist)
