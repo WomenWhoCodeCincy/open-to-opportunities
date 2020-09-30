@@ -7,13 +7,17 @@
 [3.1]: https://i.imgur.com/JZHRGN2.jpg (website icon with padding)
 [4.1]: https://i.imgur.com/WOgHkHJ.jpg (twitter icon with padding)
 
-**Jen Cihla** (she/her)
+**Jen Cihla** (she/her)  
 [![alt text][1.1]](www.linkedin.com/in/jennifercihla) [![alt text][2.1]](https://github.com/ZealandMist)
 
 
 I've spent the last 2 years working as a Full Stack Developer for a funeral home case management system. I believe that users should be given clean and easy to use experiences. I have a passion for UI and Frontend development with an eye for detail.  
 
 **Stacks**: Ruby on Rails, EmberJS, HTML, CSS, JavaScript, Figma, Gatsby, and Photoshop
+
+
+
+
 
 
 ### Template 
