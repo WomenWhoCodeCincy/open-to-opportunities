@@ -24,7 +24,7 @@ I've spent the last 2 years working as a Full Stack Developer for a funeral home
 <br/>
 
 ### Template 
-Want to add your name? If you identify as an under represented group in tech and are interested in opportunties by folks hiring in Cincinnati, feel free to email your information to our maintainer [sierra](mailto:sierra@womenwhocode.com) or use this template to open a PR! Please add your name alphabetically by last name. 
+Want to add your name? If you identify as a member of an under represented group in tech and are interested in job opportunties with folks hiring in Cincinnati (or otherwise!), feel free to email your information to our maintainer [sierra](mailto:sierra@womenwhocode.com) or use this template to open a PR! Please add your name alphabetically by last name. 
 
 Currently available social media icons: email, LinkedIn, Github, portfolio / personal site, Twitter 
 ```
