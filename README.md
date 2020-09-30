@@ -1,11 +1,15 @@
-# Open to Opportunities
-
-### Directory of Talent in the Cincinnati area open to new opportunities 
+<!-- Social media icons defined -->
 [0.1]:https://i.imgur.com/Y3o3sDR.jpg (email icon)
 [1.1]: https://i.imgur.com/YJZaxoB.jpg (linkedin icon with padding)
 [2.1]: https://i.imgur.com/dFDYThB.jpg (github icon with padding)
 [3.1]: https://i.imgur.com/Awg0NVF.jpg (website icon with padding)
 [4.1]: https://i.imgur.com/Ib12ayL.jpg (twitter icon with padding)
+
+# Open to Opportunities
+
+### Directory of Talent in the Cincinnati area open to new opportunities 
+
+Interested in learning how to make your hiring practices more inclusive? Check out [this list](https://github.com/sierraobryan/diversity-inclusion-resources#general-hiring-resources) of resources!
 
 **Jen Cihla** (she/her)  
 [![Linkedin Profile][1.1]](https://linkedin.com/in/jennifercihla) [![Github account][2.1]](https://github.com/ZealandMist)
