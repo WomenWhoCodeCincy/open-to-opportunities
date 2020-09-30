@@ -24,7 +24,7 @@ I've spent the last 2 years working as a Full Stack Developer for a funeral home
 <br/>
 
 ### Template 
-Want to add your contact information? If you identify as a member of an under represented group in tech and are interested in job opportunties with folks hiring in Cincinnati, feel free to use this template to open a PR or feel free to fill out this [form](https://forms.gle/6PUf4VZp4H4ErD1c9) and we will add your information shortly! Please add your name alphabetically by last name. 
+Want to add your contact information? If you identify as a member of an under represented group in tech and are interested in job opportunties with folks hiring in Cincinnati, feel free to use this template to create a pull request or fill out this [form](https://forms.gle/6PUf4VZp4H4ErD1c9) and we will add your information shortly! Please add your name alphabetically by last name. 
 
 Currently available social media icons: email, LinkedIn, Github, portfolio / personal site, Twitter 
 ```
