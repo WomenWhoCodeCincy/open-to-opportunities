@@ -1,4 +1,4 @@
-# open-to-opportunities
+# Open to Opportunities
 
 ### Directory of Talent in the Cincinnati area open to new opportunities 
 
