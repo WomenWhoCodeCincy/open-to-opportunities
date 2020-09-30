@@ -1,3 +1,28 @@
 # open-to-opportunities
 
 ### Directory of Talent in the Cincinnati area open to new opportunities 
+
+[1.1]: https://i.imgur.com/kMlMcZg.jpg (linkedin icon with padding)
+[2.1]: https://i.imgur.com/cspCR1E.jpg (github icon with padding)
+[3.1]: https://i.imgur.com/JZHRGN2.jpg (website icon with padding)
+[4.1]: https://i.imgur.com/WOgHkHJ.jpg (twitter icon with padding)
+
+**Jen Cihla** (she/her)
+[![alt text][1.1]](www.linkedin.com/in/jennifercihla) [![alt text][2.1]](https://github.com/ZealandMist)
+
+
+I've spent the last 2 years working as a Full Stack Developer for a funeral home case management system. I believe that users should be given clean and easy to use experiences. I have a passion for UI and Frontend development with an eye for detail.  
+
+**Stacks**: Ruby on Rails, EmberJS, HTML, CSS, JavaScript, Figma, Gatsby, and Photoshop
+
+
+### Template 
+```
+**Your Name** (your pronouns)
+[![alt text][1.1]](http://www.linkedin.com/in/LINKEDIN_USERNAME) [![alt text][2.1]](http://github.com/GITHUB_USERNAME) [![alt text][3.1]](http://www.YOU-PERSONAL=WEBSITE.com) [![alt text][4.1]](http://www.twitter.com/TWITTER_HANDLE)
+
+
+Bio about yourself. 
+
+**Stacks**: perfered stacks
+```
